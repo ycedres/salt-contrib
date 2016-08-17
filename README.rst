@@ -1,4 +1,10 @@
 ============
+Fork Motivation
+============
+
+This fork is intended to develop a Salt module for Mattermost CLI.
+
+============
 Salt Contrib
 ============
 
